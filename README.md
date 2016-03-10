@@ -9,7 +9,7 @@ Description
 This script prase weka's tree output and convert into graphviz graph.
 Use:
 ```
-    treetograph.py [-h] [-i <inputfile>] [-d] -f <format (svg, pdf, png)> -a
+    treetograph.py [-h] [-i <inputfile>] [-d] -f <format (svg, pdf, png)> [-a]
     Arguments:
         -h : help
         -i, --ifile= : Input file.
