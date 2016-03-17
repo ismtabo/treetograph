@@ -20,3 +20,13 @@ Use:
 ```
 It creates an ouput file of defined format with the tree representation.
 If there is no input file, program would ask user for it at standar input.
+
+
+Dependencies
+----
+ 
+[Graphviz][1]: Create a graph object, assemble the graph by adding nodes and edges, and retrieve its DOT source code string. Save the source code to a file and render it with the Graphviz installation of your system.
+
+
+
+[1]: https://pypi.python.org/pypi/graphviz
