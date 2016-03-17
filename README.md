@@ -27,6 +27,11 @@ Dependencies
  
 [Graphviz][1]: Create a graph object, assemble the graph by adding nodes and edges, and retrieve its DOT source code string. Save the source code to a file and render it with the Graphviz installation of your system.
 
+This library could be installed with pip, as shown below:
+```bash
+pip install graphviz
+```
+
 
 
 [1]: https://pypi.python.org/pypi/graphviz
