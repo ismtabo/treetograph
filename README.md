@@ -28,11 +28,19 @@ Dependencies
  
 [Graphviz][1]: Create a graph object, assemble the graph by adding nodes and edges, and retrieve its DOT source code string. Save the source code to a file and render it with the Graphviz installation of your system.
 
-This library could be installed with pip, as shown below:
-```bash
-pip install graphviz
-```
+To install this library you have to use pip as well as local installer.
 
+- Linux (Debian/Ubuntu based):
+    ```bash
+    sudo apt-get install graphviz
+    sudo pip install graphviz
+    ```
+
+Warning :warning:
+----
+Script has only been tested on Ubuntu base linux. If you had any problem please notice let me know at my personal [mail][3] or at this repository's [issues][2].
 
 
 [1]: https://pypi.python.org/pypi/graphviz
+[2]: https://github.com/ismtabo/treetograph/issues/new
+[3]: https://github.com/ismtabo
