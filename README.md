@@ -1,8 +1,9 @@
 # treetograph
 Python script Weka's tree parser
 
-Name: Weka's tree parser v1.0
-Version: 1.0
+Name: Weka's tree parser 
+
+Version: v1.0
 
 Description
 ----
